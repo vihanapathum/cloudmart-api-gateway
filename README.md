@@ -43,4 +43,4 @@ Eureka: `curl http://localhost:8080/api/products`
 - **Student Name:** A.G.Vihana Pathum Piyasiri
 - **Student Number:** 2301692038
 - **Slack Handle:** vihana_piyasiri
-- **GCP Project ID:** project-f45a7f6e-0370-44ea-b74
+- **GCP Project ID:** project-1023ef7b-f75c-4e17-ab5
